@@ -1,0 +1,200 @@
+//ASCII ART
+#include<stdio.h>
+int main()
+{
+int i;
+//T
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("   %c\n",178);
+}
+//E
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=2;i++)
+{
+    printf("%c\n",178);
+}
+
+for(i=1;i<=3;i++)
+{
+    printf("%c",178);
+}
+
+for(i=1;i<=3;i++)
+{
+    printf("%c\n",178);
+}
+
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+//S
+printf("\n");
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("%c",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("%c",178);
+}
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("      %c",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("      %c",178);
+}
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+//T
+printf("\n");
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("   %c\n",178);
+}
+//A
+printf("\n");
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=2;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=2;i++)
+{
+    printf("%c  ",178);
+}
+printf("\n");
+for(i=1;i<=5;i++)
+{
+    printf("%c",178);
+}
+printf("\n");
+for(i=1;i<=2;i++)
+{
+    printf("%c    ",178);
+}
+printf("\n");
+for(i=1;i<=2;i++)
+{
+    printf("%c     ",178);
+}
+//S
+printf("\n");
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("%c",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("%c",178);
+}
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("      %c",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("      %c",178);
+}
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+//T
+printf("\n");
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("%c ",178);
+}
+printf("\n");
+for(i=1;i<=4;i++)
+{
+    printf("   %c\n",178);
+}
+//Y
+printf("\n");
+printf("\n");
+for(i=1;i<=2;i++)
+{
+    printf("%c     ",178);
+}
+printf("\n");
+for(i=1;i<=2;i++)
+{
+    printf(" %c  ",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("   %c",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("   %c",178);
+}
+printf("\n");
+for(i=1;i<=1;i++)
+{
+    printf("   %c",178);
+}
+return 0;
+}
